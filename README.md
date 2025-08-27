@@ -1,3 +1,7 @@
+![Top GIF](assets/start-gif.gif)
+
+
+
 # Welcome 👋
 
 My name is Legas — a programmer with a traditional mindset who values clarity, proven solutions, and long-term thinking.
@@ -27,3 +31,5 @@ I'm open to collaboration, learning, and new challenges.
 [![](https://visitcount.itsvg.in/api?id=ArtemSpr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Bottom GIF](assets/end-gif.gif)
+
