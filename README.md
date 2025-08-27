@@ -23,7 +23,7 @@ I'm open to collaboration, learning, and new challenges.
 
 # 💻 Tech Stack:
 <p>
-<img src="[https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white](https://www.flaticon.com/free-icon/js_5968292?term=js&page=1&position=2&origin=search&related_id=5968292)" width="40" height="40" />
+[<img src="[https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white](https://www.flaticon.com/free-icon/js_5968292?term=js&page=1&position=2&origin=search&related_id=5968292)](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)" width="40" height="40" />
 
 <p/>
 # 📊 GitHub Stats:
