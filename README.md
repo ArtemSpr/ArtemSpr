@@ -4,20 +4,21 @@
 
 # Welcome 👋
 
-My name is Legas — a programmer with a traditional mindset who values clarity, proven solutions, and long-term thinking.
+My name is Legas — a programmer with a traditional mindset who values clarity, proven solutions, and long-term thinking. 🌿
 
 🔧 **Areas of interest:**  
-- Web development (Frontend / Backend)  
-- API design, security, testing  
-- Node.js, .NET, React, MongoDB, SQL  
-- Structured documentation and reliable architecture
+- Web development (Frontend / Backend) 🌱  
+- API design, security, testing 🍃  
+- Node.js, .NET, React, MongoDB, SQL 🌲  
+- Structured documentation and reliable architecture 🌾
 
 📦 **In this repository:**  
-This is my “portfolio” — here you'll find learning projects, practical implementations, and examples of my approach: simple, solid, built to last.
+This is my “portfolio” — here you'll find learning projects, practical implementations, and examples of my approach: simple, solid, built to last. 🌍
 
 🧭 **My focus:**  
-Clean code, clear solutions, steady growth.  
-I'm open to collaboration, learning, and new challenges.
+Clean code, clear solutions, steady growth. 🌳  
+I'm open to collaboration, learning, and new challenges. 🍀
+
 
 
 
@@ -27,13 +28,12 @@ I'm open to collaboration, learning, and new challenges.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> </>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> 
-  <img src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnometerminal.svg](https://icons8.com/icon/WbRVMGxHh74X/console)" width="40"/> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnometerminal.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
@@ -42,7 +42,7 @@ I'm open to collaboration, learning, and new challenges.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> </p>
+  </p>
 
 
 
