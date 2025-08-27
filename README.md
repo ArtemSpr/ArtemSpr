@@ -25,7 +25,7 @@ I'm open to collaboration, learning, and new challenges.
 <p>
 [<img src="[https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white](https://www.flaticon.com/free-icon/js_5968292?term=js&page=1&position=2&origin=search&related_id=5968292)](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)" width="40" height="40" />
 
-</p>
+</p><br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArtemSpr&theme=vue-dark&hide_border=falsee&include_all_commits=false&count_private=false)![](https://nirzak-streak-stats.vercel.app/?user=ArtemSpr&theme=vue-dark&hide_border=false)<br/>
 ---
