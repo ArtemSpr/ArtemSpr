@@ -4,7 +4,7 @@
 
 # Welcome 👋
 
-My name is Legas — a programmer with a traditional mindset<br/> who values clarity, proven solutions, and long-term thinking. 🌿
+My name is Artem — a programmer with a traditional mindset<br/> who values clarity, proven solutions, and long-term thinking. 🌿
 
 🔧 **Areas of interest:**  
  Web development (Frontend / Backend) 🌱  
