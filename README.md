@@ -22,6 +22,12 @@ I'm open to collaboration, learning, and new challenges.
 
 
 # 💻 Tech Stack:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+</p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArtemSpr&theme=vue-dark&hide_border=falsee&include_all_commits=false&count_private=false)![](https://nirzak-streak-stats.vercel.app/?user=ArtemSpr&theme=vue-dark&hide_border=false)<br/>
