@@ -22,73 +22,29 @@ I'm open to collaboration, learning, and new challenges.
 
 
 # 💻 Tech Stack:
-<p>
-  <!-- JavaScript -->
-  <span style="background:#f0f0f0; padding:6px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  </span>
-
-  <!-- Node.js -->
-  <span style="background:#f0f0f0; padding:6px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  </span>
-
-  <!-- React -->
-  <span style="background:#f0f0f0; padding:6px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  </span>
-
-  <!-- MongoDB -->
-  <span style="background:#f0f0f0; padding:6px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  </span>
-
-  <!-- Express -->
-  <span style="background:#f0f0f0; padding:6px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  </span>
-
-  <!-- HTML -->
-  <span style="background:#f0f0f0; padding:6px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  </span>
-
-  <!-- CSS -->
-  <span style="background:#f0f0f0; padding:6px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  </span>
-
-  <!-- Git -->
-  <span style="background:#f0f0f0; padding:6px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  </span>
-
-  <!-- GitHub -->
-  <span style="background:#f0f0f0; padding:6px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  </span>
-
-  <!-- VS Code -->
-  <span style="background:#f0f0f0; padding:6px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  </span>
-
-  <!-- Terminal -->
-  <span style="background:#f0f0f0; padding:6px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  </span>
-
-  <!-- Notion -->
-  <span style="background:#f0f0f0; padding:6px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" width="40"/>
-  </span>
-
-  <!-- Figma -->
-  <span style="background:#f0f0f0; padding:6px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  </span>
-</p>
-
+<p> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnometerminal.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> </p>
 
 
 
