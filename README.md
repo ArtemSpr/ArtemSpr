@@ -21,7 +21,7 @@ I'm open to collaboration, learning, and new challenges.
 
 
 # 💻 Tech Stack:
-![js](https://www.svgrepo.com/show/452045/js.svg)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArtemSpr&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ArtemSpr&theme=prussian&hide_border=false)<br/>
