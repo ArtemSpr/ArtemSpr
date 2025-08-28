@@ -44,8 +44,10 @@ I'm open to collaboration, learning, and new challenges. 🍀
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArtemSpr&theme=vue-dark&hide_border=falsee&include_all_commits=false&count_private=false"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=ArtemSpr&theme=vue-dark&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ArtemSpr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" width="300"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ArtemSpr&theme=vue-dark&hide_border=false" width="300"/>
+
 
 [<img src="https://visitcount.itsvg.in/api?id=ArtemSpr&icon=0&color=0"/>](https://visitcount.itsvg.in)
 
