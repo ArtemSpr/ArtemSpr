@@ -1,23 +1,37 @@
 <div align="center">
 
-<img src="assets/start-gif.gif" style="width:100%; max-width:100%;" alt="Top GIF"/>
-
+<img src="assets/start-gif.gif" style="width:100%; max-width:100%;" alt="Top GIF"/></br>
 # Welcome 👋
 
-My name is Artem — a programmer with a traditional mindset<br/> who values clarity, proven solutions, and long-term thinking. 🌿
+<table style="border: none;">
+  <tr>
+    <td style="border: none; vertical-align: top; padding-right: 20px;">
+
+My name is Artem — a programmer with a traditional mindset  
+who values clarity, proven solutions, and long-term thinking. 🌿
 
 🔧 **Areas of interest:**  
- Web development (Frontend / Backend) 🌱  
- API design, security, testing 🍃  
- Node.js, .NET, React, MongoDB, SQL 🌲  
- Structured documentation and reliable architecture 🌾
+- Web development (Frontend / Backend) 🌱  
+- API design, security, testing 🍃  
+- Node.js, .NET, React, MongoDB, SQL 🌲  
+- Structured documentation and reliable architecture 🌾
 
 📦 **In this repository:**  
-This is my “portfolio” — here you'll find learning projects, practical implementations,<br/> and examples of my approach: simple, solid, built to last. 🌍
+This is my “portfolio” — here you'll find learning projects, practical implementations,  
+and examples of my approach: simple, solid, built to last. 🌍
 
 🧭 **My focus:**  
-Clean code, clear solutions, steady growth. 🌳  
-I'm open to collaboration, learning, and new challenges. 🍀
+- Clean code, clear solutions, steady growth. 🌳  
+- I'm open to collaboration, learning, and new challenges. 🍀
+
+    </td>
+    <td style="border: none; vertical-align: top;">
+       <img src="/assets/right-side.jpeg" width="250" style="border-radius:50%"/>
+    </td>
+  </tr>
+</table>
+
+
 
 # 💻 Tech Stack:
 
@@ -44,13 +58,19 @@ I'm open to collaboration, learning, and new challenges. 🍀
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArtemSpr&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ArtemSpr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" width="500"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=ArtemSpr&theme=vue-dark&hide_border=true width="100%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=ArtemSpr&theme=vue-dark&hide_border=false" width="500"/>
+</br>
 
 
-[<img src="https://visitcount.itsvg.in/api?id=ArtemSpr&icon=0&color=0"/>](https://visitcount.itsvg.in)
 
+
+
+
+
+
+     
 ![Bottom GIF](assets/end-gif.gif)
 
 </div>
